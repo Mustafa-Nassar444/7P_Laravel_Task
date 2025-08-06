@@ -1,6 +1,6 @@
-# E-commerce API
+# 7P Task API
 
-A RESTful API for an simple e-commerce task built with Laravel. This API allows you to manage products and orders with features like stock management, order processing, and stock updates.
+A RESTful API for an simple product, orders management task built with Laravel. This API allows you to manage products and orders with features like stock management, order processing, and stock updates.
 
 ## Features
 
